@@ -1,4 +1,7 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Chanindu+Dewnith!;" />
 
 <!--
 **ChaninduDewnith/chanindudewnith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
